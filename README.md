@@ -2,10 +2,12 @@
 This tutorial will guide you on how to set up your directional Joystick switch!
 
 ## Things used in this project
+
 ### Hardware components
 x1 ESP32-C3-Devkit (must be able to connect to WiFi)
 x1 Analog potentiometer Joystick
 x3 LED Diodes ("Appliances to On/Off")
+
 ### Software apps and online services
 Arduino IDE (with Firebase library installed)
 
