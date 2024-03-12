@@ -28,3 +28,17 @@ Before going into the code, you first need to download this library: https://git
 ### ESP32-C3 Devkit Pinouts
 ![image](https://github.com/ChenYirongSUTD/IOT_Yirong_JoystickSwitch/assets/130292439/cf954921-a9ab-405a-8efd-f4777e6f6ae4)
 
+### Pin Connections
+Joystick VRY - A0
+Joystick VRX - A1
+Joystick SW - GPIO 3
+Yellow LED - GPIO 2
+Green LED - GPIO 9
+Red LED - GPIO 7
+
+To get started with setting up your Firebase Realtime Database and other basic ESP functions to set and get data values from your database:
+https://randomnerdtutorials.com/esp32-firebase-realtime-database/
+
+Have a good time playing with the code!
+* The joystick used in this example had a normal resting xvalue & yvalue of ~3400
+* xvalue < 1000, xvalue > 3600 and yvalue <1000 was used as threshold to detect the "bump" in a direction
