@@ -36,8 +36,11 @@ Joystick VRY - A0
 Joystick VRX - A1
 
 Joystick SW - GPIO 3
+
 Yellow LED - GPIO 2
+
 Green LED - GPIO 9
+
 Red LED - GPIO 7
 
 To get started with setting up your Firebase Realtime Database and other basic ESP functions to set and get data values from your database:
