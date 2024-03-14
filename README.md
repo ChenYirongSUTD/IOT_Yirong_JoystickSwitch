@@ -32,7 +32,9 @@ Before going into the code, you first need to download this library: https://git
 
 ### Pin Connections
 Joystick VRY - A0
+
 Joystick VRX - A1
+
 Joystick SW - GPIO 3
 Yellow LED - GPIO 2
 Green LED - GPIO 9
