@@ -2,11 +2,11 @@
 #include <WiFi.h>
 #include <FirebaseESP32.h>
 /* 1. Define the WiFi credentials */
-#define WIFI_SSID "ask me for password"
-#define WIFI_PASSWORD "03052000"
+#define WIFI_SSID "your wifi here"
+#define WIFI_PASSWORD "wifi password"
 /* 2. Define the API Key */
-#define API_KEY "AIzaSyC-xaggNSsar4qXgnMv13vqGRm6LWu_Y78"
-#define DATABASE_URL "https://pds-project-d5863-default-rtdb.asia-southeast1.firebasedatabase.app/" 
+#define API_KEY "web api key here"
+#define DATABASE_URL "realtime database URL" 
 //Provide the token generation process info.
 #include "addons/TokenHelper.h"
 //Provide the RTDB payload printing info and other helper functions.
